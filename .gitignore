@@ -26,5 +26,5 @@ yarn-error.log*
 /out/
 
 # production
-/build
+/build 
 
